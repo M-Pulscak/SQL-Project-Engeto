@@ -1,16 +1,17 @@
 # SQL-Project-Engeto
 SQL projekt pro Engeto Data Academy
 
-Projekt obsahuje skript na tvorbu primární tabulky s cenami potravin a průměrných příjmů v čase pro ČR v prostředí DB data_academy_2024_12_10. 
+Projekt obsahuje skript na tvorbu primární tabulky s cenami potravin a průměrných příjmů v čase pro ČR v prostředí DB `data_academy_2024_12_10`. 
 Skript sekundární tabulky obsahuje HDP, GINI koeficient a populaci dalších evropských států ve stejném období, jako primární tabulka.
-Obě tabulky jsou již vytvoženy v databázi data_academy_2024_12_10 pod názvem t_michal_pulscak_project_sql_primary_final a t_michal_pulscak_project_sql_secondary_final
-Dále jsou v databázi připraveny views: v_michal_p_project_sql_otazka_1 až 5, kde jsou data pro odpovědi na projektové otázky.
+Obě tabulky jsou již vytvoženy v databázi `data_academy_2024_12_10` pod názvem `t_michal_pulscak_project_sql_primary_final` a `t_michal_pulscak_project_sql_secondary_final`
+Dále jsou v databázi připraveny views: `v_michal_p_project_sql_otazka_1 až 5`, kde jsou data pro odpovědi na projektové otázky.
 Zde na GitHubu jsou tytéž skripty ve formě prostých Qery, nikoli v podobě pro tvorbu views.
 
 Výsledky projektu:
 Tabulky odpovídají zaddání, data z trhu práce jsou dostupná za roky 2000-2021, data cen potravin za roky 2006-2018, vzájemná srovnání jsou tedy omezena na období 2006-2018.
-
+'''
 Otázka 1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+'''
   Nikoli, ve výsledcích dotazu jsou uvedeny odvětví, roky a poklesy průměrných mezd.
   Ve views v_michal_p_project_sql_otazka_1_doplnek je uveden kompletní vývoj mezd vyjádřený v Kč i procentech meziročně u všech sektorů.
 
