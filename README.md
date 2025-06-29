@@ -36,4 +36,4 @@ Otázka 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli,
   Na to není jednoznačná odpověď. Ve sledovaném období se to stalo pouze 1x a míra korelace se zdá být minimální. Pro přesnjší odpověď by bylo potřeba delší období. 
   Přiloženo i grafické znázornní sledovaných hodnot pro lepší úsudek...
 
-  
+![Náhled HDP, mzdy, ceny](Trendy.png)
